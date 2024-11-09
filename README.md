@@ -25,12 +25,5 @@
 
 ---
 
-### 🌱 Current Projects
-- Developing indie games in Unity.
-- Building responsive web apps with Laravel and React.
-
----
-
 ### 📫 Contact Me
-- **Website**: [rafiadnan.my.id](https://rafiadnan.my.id/public/)
 - **Email**: [fn234561@gmail.com](mailto:fn234561@gmail.com)
