@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical" alt="Rafi Adnan's GitHub stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical" alt="Rafi Adnan's GitHub stats" /> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=radical" alt="Top Languages" />
   <br>
