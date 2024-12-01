@@ -22,13 +22,7 @@
 
 ### 🕹️ My Projects on Itch.io
 
-Here are some of my featured projects on Itch.io:
 
-- **[Seek the Light](https://gregrsea-975.itch.io/seek-the-light)**  
-  *An action-packed horror game with parkour mechanics and immersive gameplay.*
-  
-- **[Farkour](https://gregrsea-975.itch.io/farkour)**  
-  *A multiplayer parkour FPS where you fight using only katanas.*
 
 Check out more of my projects on [my Itch.io page](https://gregrsea-975.itch.io/).
 ---
