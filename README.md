@@ -46,7 +46,7 @@ FunFact: "I can turn coffee into code and bugs into features."
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=radical&hide_border=false" height="170" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiadnan0666&theme=catppuccin_mocha&hide_border=false" height="170" /> </div>
 🎯 Featured Projects
-<p align="center"> <a href="https://gregrsea-975.itch.io/artifact-fetching-for-dummies"> <img src="https://img.itch.zone/aW1nLzE4Nzk0Njg5LnBuZw==/original/FsHEyg.png" width="300" alt="Artifact Fetching for Dummies" /> </a> <a href="https://gregrsea-975.itch.io/seek-the-light"> <img src="https://img.itch.zone/aW1nLzE4ODAwMzA5LnBuZw==/original/abcd.png" width="300" alt="Seek the Light" /> </a> </p>
+<p align="center"> <a href="https://gregrsea-975.itch.io/artifact-fetching-for-dummies"> <img src="https://img.itch.zone/aW1nLzE4Nzk0Njg5LnBuZw==/original/FsHEyg.png" width="300" alt="Artifact Fetching for Dummies" /> </a> <a href="https://gregrsea-975.itch.io/seek-the-light"> <img src="https://img.itch.zone/aW1nLzE4ODAwMzA5LnBuZw==/original/abcd.png" width="300" alt="Timeloop" /> </a> </p>
 🎮 Check out more of my games on Itch.io!
 
 🛠️ Tech Stack
