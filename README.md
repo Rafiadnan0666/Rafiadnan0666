@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <a href="https://gregrsea-975.itch.io/end">
-    <img src="https://via.placeholder.com/300x200.png?text=END+(Adventure)" alt="END"/>
+    <img src="https://img.itch.zone/aW1hZ2UvMzI2MDI0Ny8xOTcxMjkzNS5wbmc=/347x500/Saovc5.png" alt="END"/>
   </a>
 </p>
 <p align="center">
@@ -90,13 +90,6 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,js,cs,unity,mysql,git,github,vscode,figma"/>
-</p>
-
----
-
-## 🌀 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
 </p>
 
 ---
