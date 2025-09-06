@@ -11,23 +11,6 @@
   </a>
 </p>
 
----
-
-<!-- ACHIEVEMENTS MARQUEE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=18&duration=3500&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=🏆+Achievements:+Quickdraw+|+YOLO+|+Pull+Shark"/>
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Laravel-ff2d20?logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game%20Engine-Unity-black?logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Styling-Tailwind-38B2AC?logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white"/>
-</p>
-
 <!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
@@ -39,7 +22,6 @@
 
 💻 **Full-stack Web Dev** – PHP, Laravel, React, MySQL  
 🎮 **Game Developer** – Unity (C#) & procedural magic  
-🎨 **UI/UX** – Because good code deserves a beautiful face  
 📍 **Location** – Indonesia (Land of great coffee ☕)  
 ⚡ Fun fact: _I can turn coffee into code and bugs into features._
 
@@ -65,18 +47,6 @@
 
 ---
 
-## 📦 Cool Repositories
-<p align="center">
-  <a href="https://github.com/Rafiadnan0666/factory-clicker-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=factory-clicker-game&theme=radical"/>
-  </a>
-  <a href="https://github.com/Rafiadnan0666/ideas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=ideas&theme=radical"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical&count_private=true" height="170"/>
@@ -84,14 +54,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiadnan0666&theme=catppuccin_mocha" height="170"/>
 </div>
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,js,cs,unity,mysql,git,github,vscode,figma"/>
-</p>
-
 ---
 
 ## 📫 Contact Me
