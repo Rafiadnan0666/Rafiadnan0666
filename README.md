@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
   Hey there, I'm <span style="color:#33A1DE;">Rafi Adnan</span>!
 </h1>
 
@@ -18,16 +17,16 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-💻 **Full-stack Web Dev** – PHP, Laravel, React, MySQL  
-🎮 **Game Developer** – Unity (C#) & procedural magic  
-📍 **Location** – Indonesia (Land of great coffee ☕)  
-⚡ Fun fact: _I can turn coffee into code and bugs into features._
+**Full-stack Web Dev** – PHP, Laravel, React, MySQL  
+**Game Developer** – Unity (C#) & procedural magic  
+**Location** – Indonesia (Land of great coffee ☕)  
+Fun fact: _I can turn coffee into code and bugs into features._
 
 ---
 
-## 🎯 Featured Games (Itch.io)
+##  Featured Games (Itch.io)
 <p align="center">
   <a href="https://gregrsea-975.itch.io/artifact-fetching-for-dummies">
     <img src="https://img.itch.zone/aW1nLzE4Nzk0Njg5LnBuZw==/original/FsHEyg.png" width="300" alt="Artifact Fetching for Dummies"/>
@@ -47,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=radical" height="170"/>
@@ -56,7 +55,7 @@
 </div>
 ---
 
-## 📫 Contact Me
+##  Contact Me
 <p align="center">
   <a href="mailto:fn234561@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rafi-adnan-a52141274"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/></a>
