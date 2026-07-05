@@ -1,68 +1,141 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hey there, I'm <span style="color:#33A1DE;">Rafi Adnan</span>!
-</h1>
+# Rafi Adnan
 
-<!-- ANIMATED SUBTITLE -->
-<p align="center">
-  <a href="https://github.com/Rafiadnan0666">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=500&color=33A1DE&center=true&vCenter=true&width=700&lines=🚀+Web+and+Game+Developer;🎮+Unity+%26+Full-Stack+Explorer;🧩+Puzzle+Solver+%26+Bug+Tamer;🔥+Turning+Ideas+Into+Playable+Worlds;💡+Dreaming+Big%2C+Coding+Bigger"/>
-  </a>
-</p>
+```console
+rafi@github:~$ whoami
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
+Full-Stack Software Engineer
+Game Developer
+Computer Science Student
+Indonesia
+```
 
----
+## Overview
 
-##  About Me
+I build software across web, backend, real-time systems, and game development.
 
-**Full-stack Web Dev** – PHP, Laravel, React, MySQL  
-**Game Developer** – Unity (C#) & procedural magic  
-**Location** – Indonesia (Land of great coffee ☕)  
-Fun fact: _I can turn coffee into code and bugs into features._
+My work focuses on designing maintainable systems, building scalable applications, and turning ideas into production-ready products.
 
----
+Current areas of interest:
 
-##  Featured Games (Itch.io)
-<p align="center">
-  <a href="https://gregrsea-975.itch.io/artifact-fetching-for-dummies">
-    <img src="https://img.itch.zone/aW1nLzE4Nzk0Njg5LnBuZw==/original/FsHEyg.png" width="300" alt="Artifact Fetching for Dummies"/>
-  </a>
-  <a href="https://gregrsea-975.itch.io/loop">
-    <img src="https://img.itch.zone/aW1nLzIyNDYzNjU1LnBuZw==/original/pDzPy%2B.png" width="300" alt="Time Loop"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://gregrsea-975.itch.io/end">
-    <img src="https://img.itch.zone/aW1hZ2UvMzI2MDI0Ny8xOTcxMjkzNS5wbmc=/347x500/Saovc5.png" alt="END"/>
-  </a>
-</p>
-<p align="center">
-  🕹️ More games at <a href="https://gregrsea-975.itch.io/">my Itch.io</a>
-</p>
+* Full-stack application development
+* Software architecture
+* Real-time systems
+* Developer tooling
+* Game development
+* Distributed systems
+* Artificial intelligence
 
 ---
 
-##  GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=radical" height="170"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiadnan0666&theme=catppuccin_mocha" height="170"/>
-</div>
+## Technical Expertise
+
+```text
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+├── Tailwind CSS
+└── HTML/CSS
+
+Backend
+├── Laravel
+├── PHP
+├── Node.js
+├── REST APIs
+├── Supabase
+└── MySQL
+
+Game Development
+├── Unity
+├── C#
+├── Photon PUN
+├── Multiplayer Systems
+└── Procedural Generation
+
+Infrastructure
+├── Git
+├── Linux
+├── Docker
+├── CI/CD
+└── Cloud Services
+```
+
 ---
 
-##  Contact Me
-<p align="center">
-  <a href="mailto:fn234561@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rafi-adnan-a52141274"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="https://rafiadnan.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=firefox&logoColor=white"/></a>
-</p>
+## Selected Projects
 
-<!-- FOOTER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
-</p>
+### SignalDeck
+
+Real-time event monitoring platform that receives webhook events, stores them, and provides live dashboard visualization.
+
+**Stack:** Next.js · React · Supabase · PostgreSQL
+
+### Starfall
+
+Cooperative sci-fi action game featuring procedural world generation and mission-driven gameplay.
+
+**Stack:** Unity · C# · Photon PUN
+
+### Deployly
+
+Deployment platform designed to simplify application delivery to traditional hosting environments.
+
+**Stack:** Laravel · PHP · FTP/SFTP Automation
+
+### Vaultify
+
+Knowledge and idea management platform focused on organization and retrieval of information.
+
+**Stack:** Next.js · Supabase
+
+---
+
+## Experience
+
+### Web Developer Intern
+
+YBM PLN
+
+Worked on website development, SEO optimization, landing pages, and business-focused digital solutions.
+
+---
+
+## Certifications
+
+* BNSP Certified Web Developer
+
+---
+
+## Education
+
+Computer Science Student
+
+Focused on software engineering, systems development, and application architecture.
+
+---
+
+## Philosophy
+
+```console
+rafi@github:~$ cat philosophy.txt
+
+Write code that is easy to understand,
+easy to maintain,
+and difficult to break.
+
+Optimize for clarity first.
+Scale when necessary.
+```
+
+---
+
+## Contact
+
+Portfolio:
+rafiadnan.my.id
+
+LinkedIn:
+linkedin.com/in/rafi-adnan-a52141274
+
+Email:
+[fn234561@gmail.com](mailto:fn234561@gmail.com)
