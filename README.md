@@ -3,6 +3,8 @@
 ```console
 rafi@github:~$ whoami
 
+Basically Unemployed
+
 Full-Stack Developer
 Game Developer
 Indonesia
