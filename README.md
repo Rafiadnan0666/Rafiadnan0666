@@ -3,31 +3,20 @@
 ```console
 rafi@github:~$ whoami
 
-Full-Stack Software Engineer
+Full-Stack Developer
 Game Developer
-Computer Science Student
 Indonesia
 ```
 
-## Overview
+## About
 
-I build software across web, backend, real-time systems, and game development.
+I build web applications, developer tools, interactive systems, and games.
 
-My work focuses on designing maintainable systems, building scalable applications, and turning ideas into production-ready products.
-
-Current areas of interest:
-
-* Full-stack application development
-* Software architecture
-* Real-time systems
-* Developer tooling
-* Game development
-* Distributed systems
-* Artificial intelligence
+My work spans modern web development, real-time applications, browser extensions, automation tools, and game development with Unity. I enjoy turning ideas into usable products and exploring technologies that solve real-world problems.
 
 ---
 
-## Technical Expertise
+## Technical Stack
 
 ```text
 Frontend
@@ -35,58 +24,90 @@ Frontend
 ├── Next.js
 ├── TypeScript
 ├── Tailwind CSS
-└── HTML/CSS
+└── Svelte
 
 Backend
 ├── Laravel
 ├── PHP
 ├── Node.js
-├── REST APIs
 ├── Supabase
-└── MySQL
+├── MySQL
+└── PostgreSQL
+
+Mobile
+├── Flutter
+└── Dart
 
 Game Development
 ├── Unity
 ├── C#
-├── Photon PUN
 ├── Multiplayer Systems
 └── Procedural Generation
 
-Infrastructure
+Tools & Infrastructure
 ├── Git
 ├── Linux
-├── Docker
-├── CI/CD
-└── Cloud Services
+├── REST APIs
+├── Webhooks
+└── Docker
 ```
 
 ---
 
 ## Selected Projects
 
-### SignalDeck
+### AturDuit
 
-Real-time event monitoring platform that receives webhook events, stores them, and provides live dashboard visualization.
+Offline-first personal finance platform focused on budgeting, expense tracking, financial reporting, and complete user data ownership.
 
-**Stack:** Next.js · React · Supabase · PostgreSQL
+**Technology**
 
-### Starfall
+Flutter · Dart · SQLite
+---
 
-Cooperative sci-fi action game featuring procedural world generation and mission-driven gameplay.
+### Gugel
 
-**Stack:** Unity · C# · Photon PUN
+Browser productivity extension designed to improve tab management, browsing workflows, and information organization.
 
-### Deployly
+**Technology**
 
-Deployment platform designed to simplify application delivery to traditional hosting environments.
+Next.js · TypeScript · Supabase
 
-**Stack:** Laravel · PHP · FTP/SFTP Automation
+---
 
-### Vaultify
+### Ideas
 
-Knowledge and idea management platform focused on organization and retrieval of information.
+Knowledge management platform for capturing, organizing, and retrieving ideas and notes efficiently.
 
-**Stack:** Next.js · Supabase
+**Technology**
+
+Next.js · TypeScript · Supabase
+
+---
+
+### Distortion Protocol
+
+Turn-based tactical RPG focused on strategic combat, player decision-making, and progression systems.
+
+**Technology**
+
+Unity · C#
+
+---
+
+## Other Work
+
+Over the years I have built and experimented with:
+
+* Point of Sale Systems
+* Academic Management Systems
+* AI-powered Applications
+* Browser Extensions
+* Dashboard Platforms
+* Simulation Games
+* Automation Tools
+* Business Landing Pages
+* Full-stack Web Applications
 
 ---
 
@@ -94,9 +115,15 @@ Knowledge and idea management platform focused on organization and retrieval of 
 
 ### Web Developer Intern
 
-YBM PLN
+Worked on website development, landing pages, SEO optimization, and business-oriented digital solutions.
 
-Worked on website development, SEO optimization, landing pages, and business-focused digital solutions.
+Responsibilities included:
+
+* WordPress development
+* Landing page creation
+* Search engine optimization
+* Website maintenance
+* Content management
 
 ---
 
@@ -106,36 +133,54 @@ Worked on website development, SEO optimization, landing pages, and business-foc
 
 ---
 
-## Education
+## Current Focus
 
-Computer Science Student
+```console
+rafi@github:~$ cat current-focus.txt
 
-Focused on software engineering, systems development, and application architecture.
+Building useful products.
+Improving software architecture skills.
+Exploring AI and automation.
+Creating better development workflows.
+Developing interactive experiences with Unity.
+```
 
 ---
 
-## Philosophy
+## Statistics
 
-```console
-rafi@github:~$ cat philosophy.txt
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
 
-Write code that is easy to understand,
-easy to maintain,
-and difficult to break.
-
-Optimize for clarity first.
-Scale when necessary.
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## Contact
 
-Portfolio:
+Portfolio
+
 rafiadnan.my.id
 
-LinkedIn:
+LinkedIn
+
 linkedin.com/in/rafi-adnan-a52141274
 
-Email:
+GitHub
+
+github.com/Rafiadnan0666
+
+Email
+
 [fn234561@gmail.com](mailto:fn234561@gmail.com)
+
+---
+
+```console
+rafi@github:~$ echo "Build. Learn. Improve."
+
+Build. Learn. Improve.
+```
