@@ -1,76 +1,72 @@
 <h1 align="center">Rafi Adnan</h1>
-<h3 align="center">Full-Stack Developer (Laravel · Next.js · React) — Tangerang, Indonesia</h3>
+<h3 align="center">Full-Stack Developer - Laravel, Next.js, TypeScript - Tangerang, Indonesia</h3>
 
 <p align="center">
-  <b>🟢 Open to Full-Stack & Backend roles — full-time or freelance</b>
+  <b>Open to Junior/Mid Full-Stack and Backend roles, full-time or freelance</b>
 </p>
 
 <p align="center">
-  <a href="mailto:fn234561@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/rafi-adnan-a52141274">💼 LinkedIn</a> •
-  <a href="https://rafiadnan.my.id">🌐 Portfolio</a>
+  <a href="mailto:fn234561@gmail.com">Email</a> |
+  <a href="https://linkedin.com/in/rafi-adnan-a52141274">LinkedIn</a> |
+  <a href="https://rafiadnan.my.id">Portfolio</a>
 </p>
 
 ---
 
 ## What I do
 
-I build **production-shaped web systems** — not tutorials. Auth, authorization, database transactions, tested APIs, and CI pipelines that actually run.
+I build complete web applications around real business workflows: authentication, role-based access, payments, and data that has to stay consistent under real use.
 
-- **Backend:** Laravel, PHP, MySQL/PostgreSQL, REST APIs, Sanctum auth, PHPUnit
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Also shipped:** Supabase/Postgres realtime apps, a Chrome extension, Flutter mobile, Unity games
-
----
-
-## 🏆 Flagship project — `absen-laravel`
-
-A full **attendance / HR management system** in Laravel, built to handle real edge cases, not just CRUD.
-
-| Feature | Detail |
-|---|---|
-| Auth & roles | Sanctum-based auth, role-based access control |
-| Core workflows | Check-in/out, leave requests, payroll calculation |
-| Data integrity | Database transactions, duplicate check-in prevention |
-| Quality | PHPUnit feature tests + GitHub Actions CI (green build badge) |
-
-**[→ View repo](https://github.com/Rafiadnan0666/absen-laravel)**
+- Backend: Laravel, PHP, MySQL, PostgreSQL, REST APIs
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Also shipped: a Chrome extension with Supabase realtime sync, a MongoDB-backed academic system, and CodeIgniter e-commerce with payment/shipping integration
 
 ---
 
-## Other projects worth your time
+## Core projects
 
-**[Gugel](https://github.com/Rafiadnan0666/gugel)** — Chrome extension (Manifest V3) + Next.js + Supabase for tab management, with realtime sync and Anthropic/OpenAI-powered rewriting.
+### [gugel](https://github.com/Rafiadnan0666/gugel)
+Chrome extension (Manifest V3) built on Next.js, TypeScript, and Supabase. Handles tab management and browsing workflows with realtime sync, plus AI-assisted rewriting through the OpenAI/Anthropic APIs.
 
-**POS / e-commerce system** — Full transaction flow: cart, payment (Midtrans), inventory, order management.
+### [absen-laravel](https://github.com/Rafiadnan0666/absen-laravel)
+Attendance and HR management system in Laravel. Role-based access control, check-in/check-out and leave workflows, payroll calculation.
 
-**[ideas](https://github.com/Rafiadnan0666/ideas)** — Knowledge-management app, Next.js + TypeScript + Supabase.
+### [pos-ci4](https://github.com/Rafiadnan0666/pos-ci4)
+Point-of-sale system in CodeIgniter with MySQL. Full commerce flow: cart, product variants, Midtrans payments, Biteship shipping integration.
 
-*(Full list of repos and details on [my portfolio](https://rafiadnan.my.id).)*
+---
+
+## Supporting projects
+
+- [akademik-mongo](https://github.com/Rafiadnan0666/akademik-mongo): academic management system, TypeScript and MongoDB
+- [disaster-svelte](https://github.com/Rafiadnan0666/disaster-svelte): Svelte app consuming external data for location-based disaster monitoring
+- [ollama-copilot](https://github.com/Rafiadnan0666/ollama-copilot): local LLM tooling with Ollama
+- [business-finder](https://github.com/Rafiadnan0666/business-finder): API-driven business search tool
+- [ideas](https://github.com/Rafiadnan0666/ideas): knowledge management app, Next.js and Supabase
 
 ---
 
 ## Experience
 
-**Web Developer Intern — YBM PLN** (May–Aug 2024)
+Web Developer Intern, YBM PLN (May to August 2024)
 WordPress development, landing pages, SEO, site maintenance.
 
-**Freelance Full-Stack Developer** (May 2024–present)
-Client projects in React/Next.js and Laravel/PHP/MySQL.
+Freelance Full-Stack Developer (May 2024 to present)
+Client projects in Laravel/PHP/MySQL and React/Next.js.
 
-**Certification:** BNSP Certified Web Developer
+Certification: BNSP Certified Web Developer
 
 ---
 
 ## Stack
 
 ```text
-Languages     PHP · TypeScript · JavaScript · C# · Dart
-Backend       Laravel · Node.js · MySQL · PostgreSQL · Supabase
-Frontend      React · Next.js · Tailwind CSS · Svelte
-Other         Flutter · Unity · Git · Docker · REST APIs
+Languages     PHP, TypeScript, JavaScript, C#, Dart
+Backend       Laravel, Node.js, MySQL, PostgreSQL, Supabase, MongoDB
+Frontend      React, Next.js, Tailwind CSS, Svelte
+Other         Flutter, Unity, Git, Docker, REST APIs
 ```
 
 ---
 
-<p align="center"><i>Reach out — I reply fast and I'm ready to start.</i></p>
+<p align="center"><i>Reach out. I reply fast and I am ready to start.</i></p>
