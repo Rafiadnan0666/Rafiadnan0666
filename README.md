@@ -1,188 +1,76 @@
-# Rafi Adnan
+<h1 align="center">Rafi Adnan</h1>
+<h3 align="center">Full-Stack Developer (Laravel · Next.js · React) — Tangerang, Indonesia</h3>
 
-```console
-rafi@github:~$ whoami
+<p align="center">
+  <b>🟢 Open to Full-Stack & Backend roles — full-time or freelance</b>
+</p>
 
-Basically Unemployed
-
-Full-Stack Developer
-Game Developer
-Indonesia
-```
-
-## About
-
-I build web applications, developer tools, interactive systems, and games.
-
-My work spans modern web development, real-time applications, browser extensions, automation tools, and game development with Unity. I enjoy turning ideas into usable products and exploring technologies that solve real-world problems.
+<p align="center">
+  <a href="mailto:fn234561@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/rafi-adnan-a52141274">💼 LinkedIn</a> •
+  <a href="https://rafiadnan.my.id">🌐 Portfolio</a>
+</p>
 
 ---
 
-## Technical Stack
+## What I do
 
-```text
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-├── Tailwind CSS
-└── Svelte
+I build **production-shaped web systems** — not tutorials. Auth, authorization, database transactions, tested APIs, and CI pipelines that actually run.
 
-Backend
-├── Laravel
-├── PHP
-├── Node.js
-├── Supabase
-├── MySQL
-└── PostgreSQL
-
-Mobile
-├── Flutter
-└── Dart
-
-Game Development
-├── Unity
-├── C#
-├── Multiplayer Systems
-└── Procedural Generation
-
-Tools & Infrastructure
-├── Git
-├── Linux
-├── REST APIs
-├── Webhooks
-└── Docker
-```
+- **Backend:** Laravel, PHP, MySQL/PostgreSQL, REST APIs, Sanctum auth, PHPUnit
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Also shipped:** Supabase/Postgres realtime apps, a Chrome extension, Flutter mobile, Unity games
 
 ---
 
-## Selected Projects
+## 🏆 Flagship project — `absen-laravel`
 
-### AturDuit
+A full **attendance / HR management system** in Laravel, built to handle real edge cases, not just CRUD.
 
-Offline-first personal finance platform focused on budgeting, expense tracking, financial reporting, and complete user data ownership.
+| Feature | Detail |
+|---|---|
+| Auth & roles | Sanctum-based auth, role-based access control |
+| Core workflows | Check-in/out, leave requests, payroll calculation |
+| Data integrity | Database transactions, duplicate check-in prevention |
+| Quality | PHPUnit feature tests + GitHub Actions CI (green build badge) |
 
-**Technology**
-
-Flutter · Dart · SQLite
----
-
-### Gugel
-
-Browser productivity extension designed to improve tab management, browsing workflows, and information organization.
-
-**Technology**
-
-Next.js · TypeScript · Supabase
+**[→ View repo](https://github.com/Rafiadnan0666/absen-laravel)**
 
 ---
 
-### Ideas
+## Other projects worth your time
 
-Knowledge management platform for capturing, organizing, and retrieving ideas and notes efficiently.
+**[Gugel](https://github.com/Rafiadnan0666/gugel)** — Chrome extension (Manifest V3) + Next.js + Supabase for tab management, with realtime sync and Anthropic/OpenAI-powered rewriting.
 
-**Technology**
+**POS / e-commerce system** — Full transaction flow: cart, payment (Midtrans), inventory, order management.
 
-Next.js · TypeScript · Supabase
+**[ideas](https://github.com/Rafiadnan0666/ideas)** — Knowledge-management app, Next.js + TypeScript + Supabase.
 
----
-
-### Distortion Protocol
-
-Turn-based tactical RPG focused on strategic combat, player decision-making, and progression systems.
-
-**Technology**
-
-Unity · C#
-
----
-
-## Other Work
-
-Over the years I have built and experimented with:
-
-* Point of Sale Systems
-* Academic Management Systems
-* AI-powered Applications
-* Browser Extensions
-* Dashboard Platforms
-* Simulation Games
-* Automation Tools
-* Business Landing Pages
-* Full-stack Web Applications
+*(Full list of repos and details on [my portfolio](https://rafiadnan.my.id).)*
 
 ---
 
 ## Experience
 
-### Web Developer Intern
+**Web Developer Intern — YBM PLN** (May–Aug 2024)
+WordPress development, landing pages, SEO, site maintenance.
 
-Worked on website development, landing pages, SEO optimization, and business-oriented digital solutions.
+**Freelance Full-Stack Developer** (May 2024–present)
+Client projects in React/Next.js and Laravel/PHP/MySQL.
 
-Responsibilities included:
-
-* WordPress development
-* Landing page creation
-* Search engine optimization
-* Website maintenance
-* Content management
+**Certification:** BNSP Certified Web Developer
 
 ---
 
-## Certifications
+## Stack
 
-* BNSP Certified Web Developer
-
----
-
-## Current Focus
-
-```console
-rafi@github:~$ cat current-focus.txt
-
-Building useful products.
-Improving software architecture skills.
-Exploring AI and automation.
-Creating better development workflows.
-Developing interactive experiences with Unity.
+```text
+Languages     PHP · TypeScript · JavaScript · C# · Dart
+Backend       Laravel · Node.js · MySQL · PostgreSQL · Supabase
+Frontend      React · Next.js · Tailwind CSS · Svelte
+Other         Flutter · Unity · Git · Docker · REST APIs
 ```
 
 ---
 
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Contact
-
-Portfolio
-
-rafiadnan.my.id
-
-LinkedIn
-
-linkedin.com/in/rafi-adnan-a52141274
-
-GitHub
-
-github.com/Rafiadnan0666
-
-Email
-
-[fn234561@gmail.com](mailto:fn234561@gmail.com)
-
----
-
-```console
-rafi@github:~$ echo "Build. Learn. Improve."
-
-Build. Learn. Improve.
-```
+<p align="center"><i>Reach out — I reply fast and I'm ready to start.</i></p>
