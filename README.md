@@ -1,5 +1,5 @@
 <h1 align="center">Rafi Adnan</h1>
-<h3 align="center">Full-Stack Developer - Laravel, Next.js, TypeScript - Tangerang, Indonesia</h3>
+<h3 align="center">Full-Stack Developer - Laravel, SvelteKit, TypeScript - Tangerang, Indonesia</h3>
 
 <p align="center">
   <b>Open to Junior/Mid Full-Stack and Backend roles, full-time or freelance</b>
