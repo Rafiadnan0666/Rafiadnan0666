@@ -1,72 +1,90 @@
-<h1 align="center">Rafi Adnan</h1>
-<h3 align="center">Full-Stack Developer - Laravel, SvelteKit, TypeScript - Tangerang, Indonesia</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafi%20Adnan&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%C2%B7%20Sometimes%20Game%20Dev&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<p align="center">
-  <b>Open to Junior/Mid Full-Stack and Backend roles, full-time or freelance</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:fn234561@gmail.com">Email</a> |
-  <a href="https://linkedin.com/in/rafi-adnan-a52141274">LinkedIn</a> |
-  <a href="https://rafiadnan.my.id">Portfolio</a>
-</p>
+<a href="https://github.com/Rafiadnan0666">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Rafi+%F0%9F%91%8B;I+build+web+apps+and+Android+apps;I+made+an+alarm+you+can't+snooze+%E2%8F%B0;Laravel+%C2%B7+SvelteKit+%C2%B7+Flutter;Open+to+internships+and+freelance" alt="typing" />
+</a>
 
----
+<br/>
 
-## What I do
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafiadnan.my.id-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rafiadnan.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafi%20Adnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-adnan-a52141274/)
+[![itch.io](https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gregrsea-975.itch.io/)
+[![Devpost](https://img.shields.io/badge/Devpost-Projects-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Rafiadnan0666)
 
-I build complete web applications around real business workflows: authentication, role-based access, payments, and data that has to stay consistent under real use.
+![Profile views](https://komarev.com/ghpvc/?username=Rafiadnan0666&color=3B82F6&style=flat-square&label=PROFILE+VIEWS)
 
-- Backend: Laravel, PHP, MySQL, PostgreSQL, REST APIs
-- Frontend: Next.js, React, TypeScript, Tailwind CSS
-- Also shipped: a Chrome extension with Supabase realtime sync, a MongoDB-backed academic system, and CodeIgniter e-commerce with payment/shipping integration
+</div>
 
 ---
 
-## Core projects
+##  Tech I use
 
-### [gugel](https://github.com/Rafiadnan0666/gugel)
-Chrome extension (Manifest V3) built on Next.js, TypeScript, and Supabase. Handles tab management and browsing workflows with realtime sync, plus AI-assisted rewriting through the OpenAI/Anthropic APIs.
-
-### [absen-laravel](https://github.com/Rafiadnan0666/absen-laravel)
-Attendance and HR management system in Laravel. Role-based access control, check-in/check-out and leave workflows, payroll calculation.
-
-### [pos-ci4](https://github.com/Rafiadnan0666/pos-ci4)
-Point-of-sale system in CodeIgniter with MySQL. Full commerce flow: cart, product variants, Midtrans payments, Biteship shipping integration.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,laravel,php,mysql,tailwind,flutter,dart,python,cs,unity,supabase,tensorflow,git&perline=8" alt="skills" />
+</div>
 
 ---
 
-## Supporting projects
+##  Stuff I've built
 
-- [akademik-mongo](https://github.com/Rafiadnan0666/akademik-mongo): academic management system, TypeScript and MongoDB
-- [disaster-svelte](https://github.com/Rafiadnan0666/disaster-svelte): Svelte app consuming external data for location-based disaster monitoring
-- [ollama-copilot](https://github.com/Rafiadnan0666/ollama-copilot): local LLM tooling with Ollama
-- [business-finder](https://github.com/Rafiadnan0666/business-finder): API-driven business search tool
-- [ideas](https://github.com/Rafiadnan0666/ideas): knowledge management app, Next.js and Supabase
+<div align="center">
 
----
+<a href="https://github.com/Rafiadnan0666/bangun">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=bangun&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Rafiadnan0666/absen-laravel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=absen-laravel&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Rafiadnan0666/sibi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=sibi&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Rafiadnan0666/pos-ci4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafiadnan0666&repo=pos-ci4&theme=tokyonight&hide_border=true" />
+</a>
 
-## Experience
+</div>
 
-Web Developer Intern, YBM PLN (May to August 2024)
-WordPress development, landing pages, SEO, site maintenance.
-
-Freelance Full-Stack Developer (May 2024 to present)
-Client projects in Laravel/PHP/MySQL and React/Next.js.
-
-Certification: BNSP Certified Web Developer
-
----
-
-## Stack
-
-```text
-Languages     PHP, TypeScript, JavaScript, C#, Dart
-Backend       Laravel, Node.js, MySQL, PostgreSQL, Supabase, MongoDB
-Frontend      React, Next.js, Tailwind CSS, Svelte
-Other         Flutter, Unity, Git, Docker, REST APIs
-```
+| Project | What it is |
+|---|---|
+|  **[Awake](https://github.com/Rafiadnan0666/bangun)** | Android alarm that only stops when you solve math or scan a real object. On-device ML. **Beta, testers wanted** |
+|  **[ABS](https://github.com/Rafiadnan0666/absen-laravel)** | Self-hosted HR & attendance system (Laravel) |
+|  **[SIBI](https://github.com/Rafiadnan0666/sibi)** | Webcam sign language letters to words to speech |
+|  **[ClrBlind](https://github.com/Rafiadnan0666/color-blind)** | Color-blind friendly tool, runs fully in the browser |
+|  **[Tabwise](https://github.com/Rafiadnan0666/gugel)** | Collaborative research web app + Chrome extension |
 
 ---
 
-<p align="center"><i>Reach out. I reply fast and I am ready to start.</i></p>
+##  Games
+
+🏆 [Factory](https://devpost.com/software/factory) · 🏆 [Win XP Portfolio](https://devpost.com/software/rafi-adnan-portofolio) · ⚔️ [Distortion Protocol](https://github.com/Rafiadnan0666/distortion-protocol) · 🕹️ [more on itch.io](https://gregrsea-975.itch.io/)
+
+---
+
+##  GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafiadnan0666&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiadnan0666&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Rafiadnan0666&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiadnan0666&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rafiadnan0666/Rafiadnan0666/output/github-snake.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
+
+**Currently:** looking for a job 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
