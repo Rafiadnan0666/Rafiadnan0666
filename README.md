@@ -58,7 +58,7 @@
 
 ##  Games
 
-🏆 [Factory](https://devpost.com/software/factory) · 🏆 [Win XP Portfolio](https://devpost.com/software/rafi-adnan-portofolio) · ⚔️ [Distortion Protocol](https://github.com/Rafiadnan0666/distortion-protocol) · 🕹️ [more on itch.io](https://gregrsea-975.itch.io/)
+ [Factory](https://devpost.com/software/factory) ·  [Win XP Portfolio](https://devpost.com/software/rafi-adnan-portofolio) ·  [Distortion Protocol](https://github.com/Rafiadnan0666/distortion-protocol) ·  [more on itch.io](https://gregrsea-975.itch.io/)
 
 ---
 
