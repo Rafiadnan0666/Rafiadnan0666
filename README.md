@@ -41,7 +41,7 @@ lagi cari internship, terbuka buat freelance.
 - **Awake** is an Android alarm that only stops when you solve math or scan a real object. Beta, testers wanted
 - **ABS** is a self-hosted HR & attendance system (Laravel)
 - **SIBI** turns webcam sign language letters into words and speech
-- **Games:** [Factory](https://devpost.com/software/factory) 🏆 · [Win XP Portfolio](https://devpost.com/software/rafi-adnan-portofolio) 🏆 · [itch.io](https://gregrsea-975.itch.io/)
+- **Games:** [Factory](https://devpost.com/software/factory)  · [Win XP Portfolio](https://devpost.com/software/rafi-adnan-portofolio)  · [itch.io](https://gregrsea-975.itch.io/)
 
 ## 🧰 Tech
 
