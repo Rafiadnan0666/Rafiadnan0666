@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Rafi+Adnan;web+%26+mobile+developer;sometimes+game+dev" alt="typing" />
 
-ngoding web & mobile, kadang nyasar ke ML dan game.
-lagi cari internship, terbuka buat freelance.
+ga tau web & mobile, kadang nyasar ke ML dan game.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rafiadnan.my.id-3B82F6?style=flat-square)](https://rafiadnan.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafi%20Adnan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-adnan-a52141274/)
